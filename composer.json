@@ -1,0 +1,17 @@
+{
+    "name": "muhja/utils",
+    "require": {
+        "wanfeiyy/dd": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Muhja\\Utils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jamiu Olanrewaju",
+            "email": "96052702+techwithlanre@users.noreply.github.com"
+        }
+    ]
+}
